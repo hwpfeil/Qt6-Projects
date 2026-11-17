@@ -1,0 +1,2 @@
+C++ Widget: Plot sine, cosine, sawtooth, and square waves. Reuse QGeaphicsScene.
+Needs to be split into multiple files, one for each function, use pointers to pass data.
