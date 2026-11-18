@@ -18,6 +18,7 @@ Widget::Widget(QWidget *parent)
 
 Widget::~Widget()
 {
+    delete myScene;
     delete ui;
 }
 
